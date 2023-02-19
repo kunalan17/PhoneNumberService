@@ -1,5 +1,5 @@
 # Customer Phone Number APIs 
-This is a microservice project. You need JDK 11+ and Grandle 7.4.2 installed to run this service.
+This is a microservice project. You need JDK 11+ and Gradle 7.4.2 installed to run this service.
 
 ## How to build and run the project
 
